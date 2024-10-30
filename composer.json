@@ -1,0 +1,13 @@
+{
+  "name": "seschi98/jwt-sso",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Sebastian Schimpfhauser",
+      "email": "seschi98@googlemail.com"
+    }
+  ],
+  "require": {
+    "firebase/php-jwt": "^5.0"
+  }
+}
